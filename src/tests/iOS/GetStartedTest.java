@@ -1,4 +1,4 @@
-package tests.IOS;
+package tests.iOS;
 
 import lib.iOSTestCase;
 import lib.ui.WelcomePageObject;

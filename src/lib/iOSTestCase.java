@@ -20,7 +20,7 @@ public class iOSTestCase extends TestCase {
         DesiredCapabilities capabilities = new DesiredCapabilities();
 
         capabilities.setCapability("platformName", "iOS");
-        capabilities.setCapability("deviceName","iPhone 8 Plus");
+        capabilities.setCapability("deviceName","iPhone SE");
         capabilities.setCapability("platformVersion","11.4");
         capabilities.setCapability("app","/Users/macmini/Desktop/JavaAppiumAutomation/apks/Wikipedia.app");
 
